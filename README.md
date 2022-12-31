@@ -6,7 +6,7 @@
 
 - 📱Application Developer
 
-- 💻Frontend Developer
+- 🕵‍♂Security Researcher
 
 - 🐧Linux USER
 
