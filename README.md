@@ -11,3 +11,9 @@
 - 🐧Linux USER
 
 - 📩 Exercises & projects [https://t.me/Rick_Code]
+
+<h3>Coding Tools:</h3>
+<p align="left">
+<a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Javascript" width="40" height="40">
+</p>
