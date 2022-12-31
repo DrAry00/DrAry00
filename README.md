@@ -9,3 +9,5 @@
 - 💻Frontend Developer
 
 - 🐧Linux USER
+
+- 📩 Exercises & projects [https://t.me/Rick_Code]
