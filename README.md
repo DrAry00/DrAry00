@@ -14,11 +14,17 @@
 
 <h3>Coding Tools:</h3>
 <p align="left">
+
 <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Javascript" width="40" height="40">
 </a>
+
 <a href="https://www.dart.dev" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart" width="40" height="40">
+</a>
+
+<a herf="https://www.flutter.dev" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-plain.svg" alt="flutter" width="40" height="40">
 </a>
 </p>
 <p>
