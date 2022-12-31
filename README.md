@@ -12,6 +12,11 @@
 
 - 📩 Exercises & projects [https://t.me/Rick_Code]
 
+```javascript
+alert('Wellcome');
+```
+
+
 <h3>Coding Tools & techniques:</h3>
 <p align="left">
 
