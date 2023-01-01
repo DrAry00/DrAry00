@@ -17,7 +17,7 @@ alert('Wellcome');
 ```
 
 
-<h3>Coding Tools & techniques:</h3>
+<h3>Coding Tools & Technologies:</h3>
 <p align="left">
 
 <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
